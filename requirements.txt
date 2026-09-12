@@ -1,0 +1,7 @@
+streamlit==1.49.1
+groq
+sentence-transformers
+faiss-cpu
+pypdf
+gdown
+numpy
